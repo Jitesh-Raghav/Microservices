@@ -4,26 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="86f54980-5a0f-4fb2-88a7-9769812d442a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/DepartmentService/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DepartmentService/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DepartmentService/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DepartmentService/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DepartmentService/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DepartmentService/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DepartmentService/src/main/java/com/example/departmentservice/DepartmentServiceApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DepartmentService/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DepartmentService/src/test/java/com/example/departmentservice/DepartmentServiceApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EmployeeService/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EmployeeService/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EmployeeService/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EmployeeService/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EmployeeService/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EmployeeService/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EmployeeService/src/main/java/com/example/employeeservice/EmployeeServiceApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EmployeeService/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EmployeeService/src/test/java/com/example/employeeservice/EmployeeServiceApplicationTests.java" afterDir="false" />
-    </list>
+    <list default="true" id="86f54980-5a0f-4fb2-88a7-9769812d442a" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -88,7 +69,7 @@
       <updated>1707236015247</updated>
       <workItem from="1707236017167" duration="5000" />
       <workItem from="1707236126801" duration="1128000" />
-      <workItem from="1707237290298" duration="403000" />
+      <workItem from="1707237290298" duration="764000" />
     </task>
     <servers />
   </component>
