@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="86f54980-5a0f-4fb2-88a7-9769812d442a" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -16,6 +15,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -57,7 +57,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Spring Boot.DepartmentServiceApplication">
+  <component name="RunManager" selected="Spring Boot.EmployeeServiceApplication">
     <configuration name="DepartmentServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <module name="DepartmentService" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.departmentservice.DepartmentServiceApplication" />
@@ -95,7 +95,7 @@
       <workItem from="1707236017167" duration="5000" />
       <workItem from="1707236126801" duration="1128000" />
       <workItem from="1707237290298" duration="1692000" />
-      <workItem from="1707424120584" duration="6355000" />
+      <workItem from="1707424120584" duration="12034000" />
     </task>
     <servers />
   </component>
