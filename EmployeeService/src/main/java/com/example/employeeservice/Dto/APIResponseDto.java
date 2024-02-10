@@ -4,15 +4,14 @@ import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
 import lombok.Setter;
+import org.springframework.stereotype.Service;
 
-@Getter@Setter
+@Setter
+@Getter
 @AllArgsConstructor
 @NoArgsConstructor
-public class EmployeeDto {
+public class APIResponseDto {
 
-    private Long id;
-    private String firstName;
-    private String lastName;
-    private String email;
-    private String departmentCode;
+    private EmployeeDto employee;
+    private DepartmentDto department;
 }
