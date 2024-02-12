@@ -27,3 +27,7 @@ public class EmployeeServiceApplication {
     }
 
 }
+
+
+//USE THIS COMMONAD TO RUN DIFFERENT INSTANCES OF A MICCOSERVICE ON DIFFERENT PORTS,
+//java -jar target/DepartmentService-0.0.1-SNAPSHOT.jar --server.port=8082
