@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
 
 //@FeignClient(url="http://localhost:8080" ,value="DEPARTMENT-SERVICE")
-@FeignClient(name="DEPARTMENT-SERVICE")
+@FeignClient(name="DEPARTMENT-SERVICE")   //Load Balancing-running multiple instances of DepartmentService, and calling whatever service which is up.
 public interface APIClient {
 
     //get department REST API
