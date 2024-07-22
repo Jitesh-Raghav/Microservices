@@ -6,5 +6,6 @@
     <mapping directory="$PROJECT_DIR$/EmployeeService" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Service-Registry" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/api-gateway" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/configServer" vcs="Git" />
   </component>
 </project>

@@ -10,6 +10,7 @@
         <module name="api-gateway" />
         <module name="DepartmentService" />
         <module name="EmployeeService" />
+        <module name="configServer" />
         <module name="Service-Registry" />
       </profile>
     </annotationProcessing>
@@ -20,6 +21,7 @@
       <module name="EmployeeService" options="-parameters" />
       <module name="Service-Registry" options="-parameters" />
       <module name="api-gateway" options="-parameters" />
+      <module name="configServer" options="-parameters" />
     </option>
   </component>
 </project>
